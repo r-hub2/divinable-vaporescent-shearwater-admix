@@ -46,7 +46,7 @@ Config/testthat/edition: 3
 VignetteBuilder: knitr
 Language: en-US
 NeedsCompilation: yes
-Packaged: 2024-04-23 10:18:25 UTC; XM
+Packaged: 2024-04-23 14:17:47 UTC; XM
 Author: Xavier Milhaud [aut, cre],
   Pierre Vandekerkhove [ctb],
   Denys Pommeret [ctb],
